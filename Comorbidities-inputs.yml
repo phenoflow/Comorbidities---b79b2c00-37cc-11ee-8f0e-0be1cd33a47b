@@ -1,0 +1,249 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/comorbidities-defibrillation---primary.py
+inputModule3:
+  class: File
+  path: python/comorbidities-history---primary.py
+inputModule4:
+  class: File
+  path: python/comorbidities-heart---primary.py
+inputModule5:
+  class: File
+  path: python/comorbidities-present---primary.py
+inputModule6:
+  class: File
+  path: python/comorbidities-sensation---primary.py
+inputModule7:
+  class: File
+  path: python/comorbidities-anaesthesia---primary.py
+inputModule8:
+  class: File
+  path: python/comorbidities-monofilament---primary.py
+inputModule9:
+  class: File
+  path: python/comorbidities-reduced---primary.py
+inputModule10:
+  class: File
+  path: python/absent-comorbidities---primary.py
+inputModule11:
+  class: File
+  path: python/right-comorbidities---primary.py
+inputModule12:
+  class: File
+  path: python/abnormal-comorbidities---primary.py
+inputModule13:
+  class: File
+  path: python/comorbidities-rhythm---primary.py
+inputModule14:
+  class: File
+  path: python/comorbidities-flutter---primary.py
+inputModule15:
+  class: File
+  path: python/paroxysmal-comorbidities---primary.py
+inputModule16:
+  class: File
+  path: python/supraventricular-comorbidities---primary.py
+inputModule17:
+  class: File
+  path: python/comorbidities-block---primary.py
+inputModule18:
+  class: File
+  path: python/comorbidities-digitalised---primary.py
+inputModule19:
+  class: File
+  path: python/comorbidities-monitoring---primary.py
+inputModule20:
+  class: File
+  path: python/comorbidities-introduction---primary.py
+inputModule21:
+  class: File
+  path: python/comorbidities-implantat---primary.py
+inputModule22:
+  class: File
+  path: python/comorbidities-system---primary.py
+inputModule23:
+  class: File
+  path: python/comorbidities-maintenance---primary.py
+inputModule24:
+  class: File
+  path: python/comorbidities-mononeuritis---primary.py
+inputModule25:
+  class: File
+  path: python/comorbidities-introduced---primary.py
+inputModule26:
+  class: File
+  path: python/comorbidities-cardioversion---primary.py
+inputModule27:
+  class: File
+  path: python/current-comorbidities---primary.py
+inputModule28:
+  class: File
+  path: python/external-comorbidities---primary.py
+inputModule29:
+  class: File
+  path: python/comorbidities-electrode---primary.py
+inputModule30:
+  class: File
+  path: python/comorbidities-invite---primary.py
+inputModule31:
+  class: File
+  path: python/comorbidities-indicator---primary.py
+inputModule32:
+  class: File
+  path: python/postherpetic-comorbidities---primary.py
+inputModule33:
+  class: File
+  path: python/comorbidities-manifestation---primary.py
+inputModule34:
+  class: File
+  path: python/neuropathy-comorbidities---primary.py
+inputModule35:
+  class: File
+  path: python/comorbidities-complication---primary.py
+inputModule36:
+  class: File
+  path: python/comorbidities-noninsulin---primary.py
+inputModule37:
+  class: File
+  path: python/arthropathy-comorbidities---primary.py
+inputModule38:
+  class: File
+  path: python/angiopathy-comorbidities---primary.py
+inputModule39:
+  class: File
+  path: python/complex-comorbidities---primary.py
+inputModule40:
+  class: File
+  path: python/multiple-comorbidities---primary.py
+inputModule41:
+  class: File
+  path: python/myoclonic-comorbidities---primary.py
+inputModule42:
+  class: File
+  path: python/comorbidities-neurone---primary.py
+inputModule43:
+  class: File
+  path: python/comorbidities---primary.py
+inputModule44:
+  class: File
+  path: python/epilepsy-comorbidities---primary.py
+inputModule45:
+  class: File
+  path: python/convulsive-comorbidities---primary.py
+inputModule46:
+  class: File
+  path: python/comorbidities-petit---primary.py
+inputModule47:
+  class: File
+  path: python/comorbidities-absence---primary.py
+inputModule48:
+  class: File
+  path: python/comorbidities-epilepticu---primary.py
+inputModule49:
+  class: File
+  path: python/juvenile-comorbidities---primary.py
+inputModule50:
+  class: File
+  path: python/comorbidities-lennoxgastaut---primary.py
+inputModule51:
+  class: File
+  path: python/grand-comorbidities---primary.py
+inputModule52:
+  class: File
+  path: python/tonicclonic-comorbidities---primary.py
+inputModule53:
+  class: File
+  path: python/comorbidities-otohara---primary.py
+inputModule54:
+  class: File
+  path: python/comorbidities-consciousness---primary.py
+inputModule55:
+  class: File
+  path: python/comorbidities-motor---primary.py
+inputModule56:
+  class: File
+  path: python/focal-comorbidities---primary.py
+inputModule57:
+  class: File
+  path: python/comorbidities-reflex---primary.py
+inputModule58:
+  class: File
+  path: python/partial-comorbidities---primary.py
+inputModule59:
+  class: File
+  path: python/simple-comorbidities---primary.py
+inputModule60:
+  class: File
+  path: python/comorbidities-infantile---primary.py
+inputModule61:
+  class: File
+  path: python/comorbidities-spasm---primary.py
+inputModule62:
+  class: File
+  path: python/comorbidities-west---primary.py
+inputModule63:
+  class: File
+  path: python/comorbidities-ohtahara---primary.py
+inputModule64:
+  class: File
+  path: python/comorbidities-forms---primary.py
+inputModule65:
+  class: File
+  path: python/comorbidities-seizure---primary.py
+inputModule66:
+  class: File
+  path: python/comorbidities-panayiotopoulos---primary.py
+inputModule67:
+  class: File
+  path: python/trigeminal-comorbidities---primary.py
+inputModule68:
+  class: File
+  path: python/comorbidities-neuritis---primary.py
+inputModule69:
+  class: File
+  path: python/peripheral-comorbidities---primary.py
+inputModule70:
+  class: File
+  path: python/comorbidities-arthritis---primary.py
+inputModule71:
+  class: File
+  path: python/painful-comorbidities---primary.py
+inputModule72:
+  class: File
+  path: python/comorbidities-unspecified---primary.py
+inputModule73:
+  class: File
+  path: python/nodal-comorbidities---primary.py
+inputModule74:
+  class: File
+  path: python/comorbidities-bouverethoffmann---primary.py
+inputModule75:
+  class: File
+  path: python/persistent-comorbidities---primary.py
+inputModule76:
+  class: File
+  path: python/comorbidities-dissociation---primary.py
+inputModule77:
+  class: File
+  path: python/comorbidities-bradycardia---primary.py
+inputModule78:
+  class: File
+  path: python/comorbidities-brugada---primary.py
+inputModule79:
+  class: File
+  path: python/comorbidities-sinus---primary.py
+inputModule80:
+  class: File
+  path: python/atrial-comorbidities---primary.py
+inputModule81:
+  class: File
+  path: python/comorbidities-radiculitis---primary.py
+inputModule82:
+  class: File
+  path: python/comorbidities-policeman's---primary.py
+inputModule83:
+  class: File
+  path: python/output-cases.py
